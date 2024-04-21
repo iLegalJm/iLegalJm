@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jose Cueva</h1>
-<h3 align="center">Conocimientos sólidos en PHP y su framework Laravel, POO, Base de Datos, APIS, Metodologías Ágiles, integraciones. Soy una persona creativa y apasionada por el desarrollo web. Me encanta trabajar en equipo y resolver problemas. Me gustaría trabajar en un equipo que desarrolle aplicaciones web innovadoras que tengan un impacto positivo en el mundo.</h3>
+<h3 align="center">Solid knowledge in PHP and its Laravel framework, OOP, Database, APIS, Agile Methodologies, integrations.
+I am a creative person and passionate about web development. I love working as a team and solving problems. I would like to work on a team that develops innovative web applications that have a positive impact on the world.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
